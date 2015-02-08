@@ -1,0 +1,14 @@
+{
+	"category" : "HP35-Calculator",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"calculator" ],
+	"name" : "HP35CalculatorModelTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

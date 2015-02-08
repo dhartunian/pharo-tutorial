@@ -1,0 +1,16 @@
+{
+	"category" : "HP35-Calculator",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"display",
+		"buttons",
+		"calculator" ],
+	"name" : "HP35CalculatorUIModel",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

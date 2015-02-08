@@ -1,0 +1,19 @@
+{
+	"category" : "HP35-Calculator",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"core",
+		"memory",
+		"input",
+		"inputState",
+		"autoEnter",
+		"error" ],
+	"name" : "HP35CalculatorModel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
